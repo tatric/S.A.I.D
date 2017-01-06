@@ -33,8 +33,10 @@ Upload logo.
 **Additional possibilities**
 
 * Ageing – when a file is created an age could be added of the time that the file should be deleted. E.g. Delete in 10years time.
-* Cannot delete 
+* Cannot delete. 
 * Cannot view contents – only upload data and list contents.
+* Access loging.
+* Admin interface to controll the above settings.
 
 
 *Created by Rhys Stevens.*
