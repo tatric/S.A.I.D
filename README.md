@@ -36,7 +36,7 @@ Upload logo.
 * Cannot delete. 
 * Cannot view contents – only upload data and list contents.
 * Access loging.
-* Admin interface to controll the above settings.
+* Admin interface to control the above settings.
 
 
 *Created by Rhys Stevens.*
