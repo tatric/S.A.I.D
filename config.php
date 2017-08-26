@@ -1,7 +1,7 @@
 <?php
 
 // Active Directory server
-$adserver = 'ad.server.domain.uk';  // '10.181.8.11'; #10.181.8.12 10.181.8.13';
+$adserver = 'ad.server.domain.uk';  
 
 // Active Directory DN
 $ldap_dn = 'OU=Users,DC=server,DC=domain,DC=uk';
